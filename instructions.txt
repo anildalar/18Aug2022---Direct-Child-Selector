@@ -1,0 +1,30 @@
+CSS Selectors
+1. ID #  (e.g Simple Selector)
+2. Class . (e.g Simple Selector)
+3. Attribute [name="value"]/[name]
+4. Combinator Selector
+			4.1  Direct child selector (>)
+								parent	> child
+
+
+Type of Relationship html tags
+1. Child Parent
+			e.g
+				<div id="parent">
+							<div id="child">
+										<div id="grandchild"></div>
+							</div>
+				</div>
+2. Siblings
+			e.g
+				<div id="sib1"></div>
+				<div id="sib2"></div>
+
+Ancestors (Our Parents)
+Desendents (Our Childs)
+
+CSS = Cascading Style Sheet
+
+Cascade == Inheritance Parent > Child
+
+https://www.w3schools.com/css/css_combinators.asp
